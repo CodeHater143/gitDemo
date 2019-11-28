@@ -16,3 +16,10 @@ function isoDateToString(dateIso)
     newdate = date+" "+hour+":"+minutes;
     return newdate
 }
+
+function add(a,b)
+{
+    return a+b;
+}
+
+console.log(add(a,b));
